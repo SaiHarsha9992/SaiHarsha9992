@@ -19,6 +19,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13TqwSLyJNw0HYElBH8lGDYtoskYqgOyW/view](https://drive.google.com/file/d/13TqwSLyJNw0HYElBH8lGDYtoskYqgOyW/view)
 
+- - 📄 My Portfolio [https://gksharshaportfolio.vercel.app/](https://gksharshaportfolio.vercel.app/) 
+
 - ⚡ Fun fact **I think i am funny and introvert**
 
 <h3 align="left">Connect with me:</h3>
