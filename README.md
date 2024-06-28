@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiharsha9992" alt="saiharsha9992" /></a> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/g-kedarinadh-sai-harsha/" target="blank"><img src="https://img.shields.io/linkedin/?logo=linkedin&style=for-the-badge" alt="saiharsha9992" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/g-kedarinadh-sai-harsha/" target="blank"><img src="https://icons8.com/icon/13930/linkedin" alt="saiharsha9992" /></a> </p>
 
 - 🔭 I’m currently working on **Vikram Ai Assistant**
 
