@@ -3,19 +3,19 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Vikram Ai Assistant](https://www.linkedin.com/posts/g-kedarinadh-sai-harsha_vikramai-artificialintelligence-ai-activity-7224084857352507392-2dzQ?utm_source=share&utm_medium=member_desktop)
+- 🔭 I’m currently working on Hospitality Project.
 
 - 🌱 I’m currently learning **Next.js,React.js, Three.js, Blender, ...**
 
 - 👯 I’m looking to collaborate on **Project K**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/g-kedarinadh-sai-harsha/](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
+- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
 
 - 💬 Ask me about **Next.js, React.js, Nodejs, Html, CSS ...**
 
 - 📫 How to reach me **gaduharsha72@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/g-kedarinadh-sai-harsha/](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
 
 - ⚡ Fun fact **I think i am funny and introvert**
 
