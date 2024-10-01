@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on Hospitality Project.
+- 🔭 I’m currently working on Hridhaya Startup Project.
 
 - 🌱 I’m currently learning **Next.js,React.js, Three.js, Blender, ...**
 
