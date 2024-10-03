@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
-# 💫 About Me:
+# 💫 About Me :
 
 - 🔭 I’m currently working on Hridhaya Startup Project.
 
