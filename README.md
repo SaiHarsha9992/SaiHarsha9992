@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Hridhaya Startup Project.
 
-- 🌱 I’m currently learning **Next.js,React.js, Three.js, Blender, ...**
+- 🌱 I’m currently learning **Next.js,React.js, Three.js, Blender, ..**
 
 - 👯 I’m looking to collaborate on **Project K**
 
