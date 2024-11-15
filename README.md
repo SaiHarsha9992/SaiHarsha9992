@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<table>
+<h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
+
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td>
+    <td style="width: 60%; vertical-align: top;">
       <h3>💫 About Me :</h3>
       <ul>
         <li>🔭 I’m currently working on Hridhaya Startup Project.</li>
@@ -17,11 +20,12 @@
         <li>⚡ Fun fact: <b>I think I am funny and introvert</b></li>
       </ul>
     </td>
-    <td>
+    <td style="width: 40%; text-align: center;">
       <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="300">
     </td>
   </tr>
 </table>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/sai%20harsha%20gadu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/kedarinadh_sai_harsha_gadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/g-kedarinadh-sai-harsha/) [![X](https://img.shields.io/badge/X-black.svg?logo=twitter&logoColor=white)](https://x.com/saiharshagadu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@kedarinadthsaiharshagadu) 
