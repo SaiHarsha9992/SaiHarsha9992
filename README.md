@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 60%; vertical-align: top;">
