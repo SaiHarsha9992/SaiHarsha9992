@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; font-size: 1.2em;">
   <tr>
-    <td style="width: 60%; vertical-align: top;">
-      <h3>💫 About Me :</h3>
+    <td style="width: 60%; vertical-align: top; padding: 10px;">
+      <h3 style="font-size: 1.6em;">💫 About Me :</h3>
       <ul>
         <li>🔭 I’m currently working on Hridhaya Startup Project.</li>
         <li>🌱 I’m currently learning <b>Next.js, React.js, Three.js, Blender, ..</b></li>
@@ -17,7 +17,7 @@
         <li>⚡ Fun fact: <b>I think I am funny and introvert</b></li>
       </ul>
     </td>
-    <td style="width: 40%; text-align: center;">
+    <td style="width: 40%; text-align: center; padding: 10px;">
       <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="300">
     </td>
   </tr>
