@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1> <h3 align="center">A passionate Full-Stack Developer from India</h3>
-<img width="400" src="./Web Development Head.png">
+<p align="center">
+  <img src="./Web Development Head.png" alt="Web Development Head" width="100%">
+</p>
 # 💫 About Me :
 
 - 🔭 I’m currently working on **Hridhaya Startup Project.**
