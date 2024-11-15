@@ -2,27 +2,27 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding"  width="400"  src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-# 💫 About Me :
-
-- 🔭 I’m currently working on Hridhaya Startup Project.
-
-- 🌱 I’m currently learning **Next.js,React.js, Three.js, Blender, ..**
-
-- 👯 I’m looking to collaborate on **Project K**
-
-- 👨‍💻 My Portfolio Link [PortfolioLink](https://gksharshaportfolio.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
-
-- 💬 Ask me about **Next.js, React.js, Nodejs, Html, CSS ...**
-
-- 📫 How to reach me **gaduharsha72@gmail.com**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
-
-- ⚡ Fun fact **I think i am funny and introvert**
-
-
+<table>
+  <tr>
+    <td>
+      <h3>💫 About Me :</h3>
+      <ul>
+        <li>🔭 I’m currently working on Hridhaya Startup Project.</li>
+        <li>🌱 I’m currently learning <b>Next.js, React.js, Three.js, Blender, ..</b></li>
+        <li>👯 I’m looking to collaborate on <b>Project K</b></li>
+        <li>👨‍💻 My Portfolio Link: <a href="https://gksharshaportfolio.vercel.app/">PortfolioLink</a></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/g-kedarinadh-sai-harsha/">Linkedin</a></li>
+        <li>💬 Ask me about <b>Next.js, React.js, Nodejs, HTML, CSS ...</b></li>
+        <li>📫 How to reach me: <b>gaduharsha72@gmail.com</b></li>
+        <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/g-kedarinadh-sai-harsha/">Linkedin</a></li>
+        <li>⚡ Fun fact: <b>I think I am funny and introvert</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="300">
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/sai%20harsha%20gadu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/kedarinadh_sai_harsha_gadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/g-kedarinadh-sai-harsha/) [![X](https://img.shields.io/badge/X-black.svg?logo=twitter&logoColor=white)](https://x.com/saiharshagadu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@kedarinadthsaiharshagadu) 
