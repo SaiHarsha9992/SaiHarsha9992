@@ -2,7 +2,8 @@
 <p align="center">
   <img src="./Web Development Head.png" alt="Web Development Head" width="100%" style="border-radius: 15px; border: 2px solid #ccc;">
 </p>
-##💫 About Me:
+
+**💫 About Me:**
 
 - 🔭 I’m currently working on **Hridhaya Startup Project.**
 
