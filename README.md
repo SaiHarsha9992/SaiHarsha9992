@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Next.js, React.js, Nodejs, Html, CSS ...**
 
-- 📫 How to reach me **gaduharsha72@gmail.com**
+- 📫 How to reach me **gaduharsha72@gmail.com** or
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
 
