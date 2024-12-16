@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Project K**
 
-- 👨‍💻 My Portfolio Link [PortfolioLink](https://gksharshaportfolio.vercel.app/)
+- 👨‍💻 My Portfolio Link PortfolioLink](https://gksharshaportfolio.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
 
@@ -18,7 +18,6 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
 
-- ⚡ Fun fact **I think i am funny and introvert**
 
 
 
