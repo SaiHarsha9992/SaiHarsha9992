@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js,React.js, Three.js, Blender, ..**
 
-- 👯 I’m looking to collaborate on **Project K**
+- 👯 I’m looking to collaborate on **ghostCoder**
 
 - 👨‍💻 My Portfolio Link [PortfolioLink](https://gksharshaportfolio.vercel.app/)
 
