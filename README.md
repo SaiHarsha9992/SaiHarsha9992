@@ -2,7 +2,7 @@
 
 **💫 About Me:**
 
-- 🔭 I’m currently working on **ghostCoder.**
+- 🔭 I’m currently working on **Education Project**
 
 - 🌱 I’m currently learning **Next.js,React.js, Three.js, Blender, ..**
 
