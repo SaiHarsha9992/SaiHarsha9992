@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Second Chance**
 
-- 🌱 I’m currently learning **Next.js,React.js, Three.js, Blender, ..**
+- 🌱 I’m currently learning **Devops, Entrepreneurship, Data Structures and Algorithms, Blender, ..**
 
 - 👯 I’m looking to collaborate on **ghostCoder**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
 
-- 💬 Ask me about **Next.js, React.js, Nodejs, Html, CSS ...**
+- 💬 Ask me about **Next.js, React.js, React Three Fiber, Nodejs, Html, CSS ...**
 
 - 📫 How to reach me **gaduharsha72@gmail.com** 
 
