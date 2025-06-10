@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Ornix**
 
-- 🌱 I’m currently learning **Docker, Entrepreneurship, Data Structures and Algorithms, Docker, ..**
+- 🌱 I’m currently learning **Docker, Entrepreneurship, Data Structures and Algorithms, Java, ..**
 
 - 👯 I’m looking to collaborate on **ghostCoder**
 
