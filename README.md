@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&width=435&lines=Full+Stack+Developer;Front+End+Developer;Backend+Developer;3D+Developer;App+Developer)](https://git.io/typing-svg)
-
+<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&width=435&lines=Full+Stack+Developer;Front+End+Developer;Backend+Developer;3D+Developer;App+Developer)](https://git.io/typing-svg)
+</div>
 ---
 
 ### 💫 About Me:
