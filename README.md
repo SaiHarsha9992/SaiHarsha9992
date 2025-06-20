@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1> <h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-**💫 About Me:**
+---
 
-- 🔭 I’m currently working on **Ornix**
+### 💫 About Me:
 
-- 🌱 I’m currently learning **Docker, Entrepreneurship, Data Structures and Algorithms, Java, ..**
+- 🔭 Currently working on **ghostCoder** – an innovative full-stack project.
+- 🌱 Actively learning **Docker, Java, Go Lang, Data Structures & Algorithms, and Entrepreneurship**.
+- 👯 Looking to collaborate on **ghostCoder** – a collaborative coding platform idea.
+- 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS**, and more!
+- 📫 Reach me at: **gaduharsha72@gmail.com**
+- 👨‍💻 Visit my portfolio: [gksharshaportfolio.vercel.app](https://gksharshaportfolio.vercel.app/)
+- 📄 Learn more about my work on [LinkedIn](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
 
-- 👯 I’m looking to collaborate on **ghostCoder**
-
-- 👨‍💻 My Portfolio Link [PortfolioLink](https://gksharshaportfolio.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
-
-- 💬 Ask me about **Next.js, React.js, React Native, React Three Fiber, Nodejs, Html, CSS ...**
-
-- 📫 How to reach me **gaduharsha72@gmail.com** 
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
 
 
 
