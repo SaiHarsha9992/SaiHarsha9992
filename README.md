@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gadu Kedarinadh Sai Harsha</h1>
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&width=500&height=100&lines=Full+Stack+Developer;Front+End+Developer;Backend+Developer;3D+Developer;App+Developer" alt="Typing SVG" /> </div> 
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&width=500&height=1000&lines=Full+Stack+Developer;Front+End+Developer;Backend+Developer;3D+Developer;App+Developer" alt="Typing SVG" /> </div> 
 
 ---
 
