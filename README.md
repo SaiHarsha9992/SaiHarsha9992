@@ -6,7 +6,7 @@
 
 ### 💫 About Me:
 
-- 🔭 Currently working on **ghostCoder**, **Zenilex** – an innovative full-stack project.
+- 🔭 Currently working on **ghostCoder**, **Zenilex** – an innovative full-stack project, **Human 2nd Brain**.
 - 🌱 Actively learning **React Native, Docker, Java, Go Lang, Data Structures & Algorithms, and Entrepreneurship**.
 - 👯 Looking to collaborate on **ghostCoder** – a collaborative coding platform idea.
 - 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev**, and more!
