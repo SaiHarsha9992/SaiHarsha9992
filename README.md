@@ -6,7 +6,7 @@
 
 ### 💫 About Me:
 
-- 🔭 Currently working on **ghostCoder**, **Human 2nd Brain**, **Learn Coding** Educator.
+- 🔭 Currently working on **ghostCompiler**, **Human Second Brain**.
 - 🌱 Actively learning **React Native, Docker, Java, Spring Boot, Data Structures & Algorithms, and Entrepreneurship**.
 - 👯 Looking to collaborate on **ghostCoder** – a collaborative coding platform idea.
 - 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev**, and more!
