@@ -9,7 +9,7 @@
 - 🔭 Currently working on **gc.Learning**, **Human Second Brain**.
 - 🌱 Actively learning **React Native, Docker, Java, Spring Boot, Data Structures & Algorithms, and Entrepreneurship**.
 - 👯 Looking to collaborate on **ghostCoder & gc.Learning** – a collaborative coding platform idea.
-- 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev**, and more!
+- 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev, Cloud, Devops, React Native**, and more!
 - 📫 Reach me at: **gaduharsha72@gmail.com**
 - 👨‍💻 Visit my portfolio: [Portfolio](https://portfolio-gksharsha.vercel.app/)
 - 📄 Learn more about my work on [LinkedIn](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
