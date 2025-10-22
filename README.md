@@ -6,7 +6,7 @@
 
 ### 💫 About Me:
 
-- 🔭 Currently working on **gc.Learning**, **Human Second Brain**.
+- 🔭 Currently working on **gc.Learning**, **Human Second Brain**, **They Call Him OG AI Assistant**.
 - 🌱 Actively learning **React Native, Docker, Java, Spring Boot, Data Structures & Algorithms, and Entrepreneurship**.
 - 👯 Looking to collaborate on **ghostCoder & gc.Learning** – a collaborative coding platform idea.
 - 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev, Cloud, Devops, React Native**, and more!
