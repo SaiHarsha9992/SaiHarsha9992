@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kedarinadh Sai Harsha</h1>
+<h1 align="center">Hi 👋, I'm Kedarinadh Sai Harsha Gadu</h1>
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Front+End+Developer;Backend+Developer;3D+Developer;Cloud+Developer;AI+Full+Stack+Developer" alt="Typing SVG" /> </div> 
 
@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on **ClapStick Media**, **ghostCoder**, **Human Second Brain**, **They Call Him OG AI Assistant**.
 - 🌱 Actively learning **React Native, Prisma, Redis, Docker, Java, Spring Boot, Data Structures & Algorithms, and Entrepreneurship**.
-- 👯 Looking to collaborate on **ghostCoder** – a collaborative coding platform idea.
+- 👯 Looking to collaborate on **ghostCoder**, **gc.Learning**– a collaborative coding platform idea.
 - 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev, Cloud, Devops, React Native**, and more!
 - 📫 Reach me at: **gaduharsha72@gmail.com**
 - 👨‍💻 Visit my portfolio: [Portfolio](https://portfolio-gksharsha.vercel.app/)
