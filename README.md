@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kedarinadh Sai Harsha Gadu</h1>
+<h1 align="center">Hi 👋, I'm Kedarinadh Sai Harsha</h1>
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Front+End+Developer;Backend+Developer;3D+Developer;Cloud+Developer;AI+Full+Stack+Developer" alt="Typing SVG" /> </div> 
 
