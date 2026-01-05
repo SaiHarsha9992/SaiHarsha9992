@@ -6,7 +6,7 @@
 
 ### 💫 About Me:(Gksh)
 
-- 🔭 Currently working on **TSTK Ventures(ClapStick Media)**, **ghostCoder**, **Human Second Brain**, **They Call Him OG AI Assistant**, **gc.Learning**.
+- 🔭 Currently working on **ClapStick Media**, **ghostCoder**, **Human Second Brain**, **They Call Him OG AI Assistant**, **gc.Learning**.
 - 🌱 Actively learning **React Native, Prisma, Redis, Docker, Java, Spring Boot, Data Structures & Algorithms, and Entrepreneurship, Testing**.
 - 👯 Looking to collaborate on **ghostCoder**, **gc.Learning**– a collaborative coding platform idea.
 - 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev, Cloud, Devops, React Native, AWS Cloud**, and more!
