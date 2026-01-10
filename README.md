@@ -4,7 +4,7 @@
 
 ---
 
-### 💫 About Me:(Gksh)
+## 💫 About Me:
 
 - 🔭 Currently working on **ClapStick Media**, **ghostCoder**, **Human Second Brain**, **They Call Him OG AI Assistant**, **gc.Learning**.
 - 🌱 Actively learning **React Native, Prisma, Redis, Docker, Java, Spring Boot, Data Structures & Algorithms, and Entrepreneurship, Testing**.
