@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 - 🔭 Currently working on **ClapStick Media**, **ghostCoder**, **Project Vani**, **They Call Him OG AI Assistant**.
-- 🌱 Actively learning **React Native, Prisma, Redis, Docker, Java, Spring Boot, Data Structures & Algorithms, and Entrepreneurship, Testing**.
+- 🌱 Actively learning **React Native, Prisma, Redis, Docker, Java, Spring Boot, Data Structures & Algorithms, and Entrepreneurship, Testing, N8N**.
 - 👯 Looking to collaborate on **ghostCoder** – a collaborative coding platform idea.
 - 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev, Cloud, Devops, React Native, AWS Cloud**, and more
 - 📫 Reach me at: **gaduharsha72@gmail.com**
