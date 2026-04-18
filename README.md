@@ -9,7 +9,7 @@
 - 🔭 Currently working on **ClapStick Media**, **ghostCoder**, **Project Vani**, **They Call Him OG AI Assistant**.
 - 🌱 Actively learning **React Native, Prisma, Redis, Docker, Java, Spring Boot, Data Structures & Algorithms, and Entrepreneurship, Testing, N8N, Meta**.
 - 👯 Looking to collaborate on **ghostCoder** – a collaborative coding platform idea.
-- 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev, Cloud, Devops, React Native, AWS Cloud**, and more
+- 💬 Ask me about **Next.js, React.js, React Native, Node.js, React Three Fiber, HTML, CSS, Web Dev, Cloud, Devops, React Native, AWS Cloud, Azure Cloud**, and more
 - 📫 Reach me at: **gaduharsha72@gmail.com**
 - 👨‍💻 Visit my portfolio: [Portfolio](https://portfolio-gksharsha.vercel.app/)
 - 📄 Learn more about my work on [LinkedIn](https://www.linkedin.com/in/g-kedarinadh-sai-harsha/)
