@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kedarinadh Sai Harsha</h1>
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Front+End+Developer;Backend+Developer;3D+Developer;Cloud+Developer;AI+Full+Stack+Developer;Cloud+Developer;AI+Engineer; Reat+Native+Developer" alt="Typing SVG" /> </div> 
-
 ---
 
 # 💫 About Me:
